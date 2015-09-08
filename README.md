@@ -6,8 +6,9 @@ OpenCV Tutorial
 * [Building OpenCV with CMake on Windows][1]
 * [Edge Detection][2]
 * [Line Detection][3]
-* Finding Contours
+* [Finding Contours][4]
 
 [1]:http://www.codepool.biz/building-opencv-with-cmake-on-windows.html
 [2]:http://www.codepool.biz/opencv-edge-detection.html
 [3]:http://www.codepool.biz/opencv-line-detection.html
+[4]:http://www.codepool.biz/opencv-finding-image-contours.html
